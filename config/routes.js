@@ -22,6 +22,7 @@
 
 module.exports.routes = {
 
+  '/test':'HooksController.test',
   'post /kimono': 'HooksController.kimono'
 
 };
