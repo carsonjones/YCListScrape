@@ -7,16 +7,18 @@
 
 module.exports = {
 	test: function(req, res){
-		return res.send("Hello!");
+		return res.send('Hello!');
 	},
 	kimono: function(req, res){
-		var webhookName = req.get('X-Webhook-Name');
-		if ('data.posted' === webhookName) {
-		  	// do stuff
+		console.log('statusCode: ', res.statusCode);
+  		
+  		var requestJSON = req.body;
 
-		   	return res.ok();;
-		} else {
-		  return res.ok();
-		}
+  		NewYC.create(requestJSON).exec(function createCB(err, created){
+		  console.log('Created entry with name ' + created.name);
+		});;
+
+		return res.send('hey, thanks for the data!');
+
 	}
 };

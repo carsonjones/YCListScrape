@@ -1,0 +1,1862 @@
+  "name": "NewYCList.com",
+  "count": 88,
+  "frequency": "Daily",
+  "version": 1,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "thisversionstatus": "success",
+  "nextrun": "Thu Aug 20 2015 22:57:40 GMT+0000 (UTC)",
+  "thisversionrun": "Wed Aug 19 2015 22:57:40 GMT+0000 (UTC)",
+  "results": {
+    "collection1": [
+      {
+        "Logo": {
+          "href": "https://80000hours.org/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/80000-hours-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://80000hours.org/about/work-with-us/?ref=breakoutlist",
+          "text": "80000 Hours"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/80-000-hours-yc-s15-helps-top-graduates-choose-careers-that-matter",
+          "text": "Non-profit :) 80,000 Hours Helps Top Graduates Choose Careers That Matter"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Oxford, UK",
+        "index": 1,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://afrostream.tv/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/afrostream-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://afrostream.tv/?ref=breakoutlist",
+          "text": "Afrostream"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/afrostream-yc-s15-makes-it-easy-to-find-and-watch-african-and-african-american-movies",
+          "text": "Afrostream Makes It Easy To Find And Watch African And African-American Movies"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Mountain View, CA",
+        "index": 2,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://appcanary.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/appcanary-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://appcanary.com/#team?ref=breakoutlist",
+          "text": "AppCanary"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/every-day-theres-a-new-zero-day-appcanary-yc-s15-makes-sure-your-company-is-safe",
+          "text": "Every Day There's A New Zero-Day. appCanary Makes Sure Your Company Is Safe"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Mountain View, CA",
+        "index": 3,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.aurobots.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/auro-robotics-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.aurobots.com/jobs?ref=breakoutlist",
+          "text": "Auro Robotics"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/auro-robotics-yc-s15-makes-autonomous-shuttles-for-getting-around-on-campus",
+          "text": "Auro Robotics Makes Autonomous Shuttles For Getting Around On Campus"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "5",
+        "location": "Mountain View, CA",
+        "index": 4,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.bistrobot.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/bistrobot-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.bistrobot.com/?ref=breakoutlist",
+          "text": "BistroBot"
+        },
+        "Description": {
+          "href": "http://techcrunch.com/2015/08/18/hardware-demo-day/",
+          "text": "BistroBot is a robot that automatically creates a sandwich with multiple toppings like Hummus, Nutella, peanut butter, and so on."
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 5,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.bitcodin.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/bitcodin-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.bitcodin.com/?ref=breakoutlist",
+          "text": "Bitcodin"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/bitcodin-yc-s15-encodes-videos-100x-faster-at-netflix-grade-streaming-quality",
+          "text": "bitcodin Encodes Videos 100X Faster, At Netflix-Grade Streaming Quality"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Santa Cruz, CA",
+        "index": 6,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://bizzy.io/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/bizzy-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://angel.co/bizzy-2/jobs",
+          "text": "Bizzy"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/bizzy-yc-s15-helps-e-commerce-brands-send-fewer-better-emails",
+          "text": "Bizzy Helps E-Commerce Brands Send Fewer, Better Emails"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "4",
+        "location": "San Francisco, CA",
+        "index": 7,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.bluecrewjobs.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/bluecrew-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.bluecrewjobs.com/about.html?ref=breakoutlist",
+          "text": "BlueCrew"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/bluecrew-yc-s15-provides-on-demand-staff-with-the-stability-of-full-time-employment",
+          "text": "BlueCrew Provides On-Demand Staff With The Stability Of Full-Time Employment"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Palo Alto, CA",
+        "index": 8,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://bodyport.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/bodyport-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://bodyport.com/?ref=breakoutlist",
+          "text": "Bodyport"
+        },
+        "Description": {
+          "href": "http://techcrunch.com/2015/08/18/hardware-demo-day/",
+          "text": "A smart scale that measures your heart disease risks"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Mountain View, CA",
+        "index": 9,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.branch8.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/branch8-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.branch8.com/index.php#here?ref=breakoutlist",
+          "text": "Branch8"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/platejoy-yc-s15-delivers-fresh-food-to-help-you-meet-your-weight-loss-and-health-goals",
+          "text": "Branch8 Helps Merchants Sell Across Asia's Many E-Commerce Platforms"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Jose, CA",
+        "index": 10,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.callnine.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/call9-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.callnine.com/contact/?ref=breakoutlist",
+          "text": "Call9"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/call9-yc-s15-dispatches-an-er-doctor-to-a-medical-emergency-within-1-minute",
+          "text": "Call9 Provides An ER Doctor To Assist In A Medical Emergency Within 1 Minute"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Palo Alto, CA",
+        "index": 11,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://captain401.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/captain401-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://captain401.com/join?ref=breakoutlist",
+          "text": "Captain401"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/captain401-yc-s15-makes-it-easy-for-any-company-to-have-a-401k-program",
+          "text": "Captain401 Makes It Easy For Any Company To Have A 401k Program"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 12,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.careledger.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/careledger-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.careledger.com/?ref=breakoutlist",
+          "text": "CareLedger"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/careledger-yc-s15-helps-companies-give-their-employees-free-top-quality-healthcare",
+          "text": "CareLedger Helps Companies Give Their Employees Free, Top-Quality Healthcare"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 13,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://chaldal.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/chaldal-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://chaldal.com/t/ContactUs?ref=breakoutlist",
+          "text": "Chaldal"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/chaldal-yc-s15-is-delivering-on-demand-groceries-for-one-of-the-densest-countries-in-the-world",
+          "text": "Chaldal Powers Grocery Delivery For One Of The Densest Countries In The World"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Dhaka, Bangladesh",
+        "index": 14,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://circlemedical.co/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/circle-medical-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://circlemedical.co/team?ref=breakoutlist",
+          "text": "Circle Medical"
+        },
+        "Description": {
+          "href": "http://techcrunch.com/2015/08/17/circle-medical-brings-a-full-service-medical-practice-to-you/",
+          "text": "Circle Medical Brings A Full Service Medical Practice To You"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 15,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.clickandgrow.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/click-&-grow-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.clickandgrow.com/pages/contact-us?ref=breakoutlist",
+          "text": "Click & Grow"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/click-and-grow-yc-s15-lets-you-grow-an-indoor-garden-with-zero-effort",
+          "text": "Click & Grow Lets You Grow An Indoor Garden With Zero Effort"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Palo Alto, CA",
+        "index": 16,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://cofactorgenomics.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/cofactor-genomics-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://cofactorgenomics.com/careers/?ref=breakoutlist",
+          "text": "Cofactor Genomics"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/cofactor-genomics-yc-s15-is-studying-rna-testing-to-diagnose-disease-earlier",
+          "text": "Cofactor Genomics Is Studying RNA Testing To Diagnose Diseases Earlier"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "1",
+        "location": "Saint Louis, Missouri",
+        "index": 17,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.convox.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/convox-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.convox.com/?ref=breakoutlist",
+          "text": "Convox"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/convox-yc-s15-makes-it-easier-for-companies-to-use-aws",
+          "text": "Convox Makes It Easier For Companies To Use AWS"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Atlanta, GA",
+        "index": 18,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.cymmetria.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/cymmetria-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.cymmetria.com/?ref=breakoutlist",
+          "text": "Cymmetria"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/cymmetria-yc-s15-uses-virtual-machines-to-decoy-and-detect-hackers",
+          "text": "Cymmetria Uses Virtual Machines To Decoy And Detect Hackers"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Israel",
+        "index": 19,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.dripcapital.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/drip-capital-logo.jpg",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.dripcapital.com/?ref=breakoutlist",
+          "text": "Drip Capital"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/drip-capital-yc-s15-lends-small-businesses-the-money-they-need-to-grow",
+          "text": "Drip Capital Lends Small Businesses The Money They Need To Grow"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Sunnyvale, CA",
+        "index": 20,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.edentech.co/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/eden-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://angel.co/edentech/jobs",
+          "text": "Eden"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/eden-yc-s15-launches-to-offer-on-demand-electronics-repair-and-installation",
+          "text": "Eden Launches To Offer On-Demand Electronics Repair And Installation"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "3",
+        "location": "San Francisco, CA",
+        "index": 21,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://fonticons.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/fonticons-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://fonticons.com/?ref=breakoutlist",
+          "text": "Fonticons"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/from-the-makers-of-font-awesome-fonticons-yc-s15-helps-you-build-a-beautiful-website",
+          "text": "From The Makers Of Font Awesome, Fonticons Helps You Build A Beautiful Website"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Cambridge, MA",
+        "index": 22,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.foxpass.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/foxpass-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.foxpass.com/?ref=breakoutlist",
+          "text": "Foxpass"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/foxpass-yc-s15-allows-any-company-to-have-advanced-server-and-network-security",
+          "text": "Foxpass Allows Any Company To Have Advanced Server And Network Security"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 23,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.gemnote.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/gemnote-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.gemnote.com/?ref=breakoutlist",
+          "text": "Gemnote"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/gemnote-yc-s15-launches-to-give-corporate-gifts-a-personal-touch",
+          "text": "Gemnote Launches To Give Corporate Gifts A Personal Touch"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 24,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://delta.getscale.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/getscale-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://delta.getscale.com/?ref=breakoutlist",
+          "text": "GetScale"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/getscale-yc-s15-gives-hardware-companies-real-time-quality-control-for-their-factories",
+          "text": "GetScale Gives Hardware Companies Real-Time Quality Control For Their Factories"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Redwood City, CA",
+        "index": 25,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.trygigster.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/gigster-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://jobs.lever.co/gigster?ref=breakoutlist",
+          "text": "Gigster"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/gigster-yc-s15-hires-an-elite-engineering-team-for-your-software-project-in-minutes",
+          "text": "Gigster Hires An Elite Engineering Team For Your Software Project In Minutes"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "3",
+        "location": "San Francisco, CA",
+        "index": 26,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.givecampus.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/givecampus-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.givecampus.com/careers?ref=breakoutlist",
+          "text": "GiveCampus"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/givecampus-yc-s15-is-a-crowdfunding-platform-for-college-donors",
+          "text": "GiveCampus Is A Crowdfunding Platform For College Donors"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "5",
+        "location": "Washington, DC",
+        "index": 27,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://go1.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/go1-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://go1.com/contact.html?ref=breakoutlist",
+          "text": "Go1"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/go1-yc-s15-takes-the-pain-out-of-company-onboarding-and-compliance-training",
+          "text": "Go1 Takes The Pain Out Of Company Onboarding And Compliance Training"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 28,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://growsumo.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/growsumo-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://growsumo.com/?ref=breakoutlist",
+          "text": "GrowSumo"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/growsumo-yc-s15-helps-companies-create-and-manage-partner-programs",
+          "text": "GrowSumo Helps Companies Create And Manage Partner Programs"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 29,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://weareher.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/her-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://weareher.com/?ref=breakoutlist",
+          "text": "Her"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/her-yc-s15-launches-its-women-only-dating-app-throughout-the-united-states",
+          "text": "Her Launches Its Women-Only Dating App Throughout The United States"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "London, England",
+        "index": 30,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.hickorytraining.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/hickory-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.hickorytraining.com/team/?ref=breakoutlist",
+          "text": "Hickory"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/hickory-yc-s15-helps-employees-retain-what-they-learn-during-training",
+          "text": "Hickory Helps Employees Retain What They Learn During Training"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "1",
+        "location": "NYC",
+        "index": 31,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://instantesports.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/instant-esports-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://instantesports.com/#team?ref=breakoutlist",
+          "text": "Instant eSports"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/instant-esports-yc-s15-is-espn-for-competitive-gaming",
+          "text": "Instant eSports Is ESPN for Competitive Gaming"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 32,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.instawork.co/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/instawork-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.instawork.co/backend/about/?ref=breakoutlist",
+          "text": "Instawork"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/instawork-yc-s15-is-the-linkedin-for-recruiting-and-hiring-at-small-businesses",
+          "text": "Instawork Is The LinkedIn For Recruiting And Hiring At Small Businesses"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 33,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://interviewed.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/interviewed-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://interviewed.com/about?ref=breakoutlist",
+          "text": "Interviewed"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/interviewed-yc-s15-takes-the-guesswork-out-of-evaluating-potential-hires",
+          "text": "Interviewed Takes The Guesswork Out Of Evaluating Potential Hires"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco",
+        "index": 34,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://ironcladapp.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/ironclad-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://ironcladapp.com/#!/about?ref=breakoutlist",
+          "text": "Ironclad"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/ironclad-yc-s15-is-an-app-that-manages-legal-paperwork-for-companies",
+          "text": "Ironclad Is An App That Manages Legal Paperwork For Companies"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 35,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://ixchelsci.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/ixchel-scientific-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://ixchelsci.com/home/careers/?ref=breakoutlist",
+          "text": "Ixchel Scientific"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/ixchel-scientific-yc-s15-can-predict-how-the-human-body-will-react-to-cancer-drugs",
+          "text": "Ixchel Scientific Can Predict How The Human Body Will React To Cancer Drugs"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "1",
+        "location": "San Jose, CA",
+        "index": 36,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.jopwell.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/jopwell-logo.svg",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.jopwell.com/careers?ref=breakoutlist",
+          "text": "Jopwell"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/jopwell-yc-s15-helps-tech-companies-recruit-and-hire-more-diverse-candidates",
+          "text": "Jopwell Helps Tech Companies Recruit And Hire More Diverse Candidates"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "1",
+        "location": "NYC",
+        "index": 37,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://klarismo.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/klarismo-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://klarismo.com/careers?ref=breakoutlist",
+          "text": "Klarismo"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/klarismo-yc-s15-uses-3d-scanning-to-make-a-model-of-the-inside-of-your-body",
+          "text": "Klarismo Uses 3D Scanning To Make A Model Of The Inside Of Your Body"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "1",
+        "location": "San Francisco, CA",
+        "index": 38,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.thisisl.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/l.-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.thisisl.com/contact/?ref=breakoutlist",
+          "text": "L."
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/l-yc-s15-is-a-condom-subscription-service-to-make-safe-sex-a-global-human-right",
+          "text": "L. Is A Condom Subscription Service To Make Safe Sex A Global Human Right"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 39,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.teamleada.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/leada-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.teamleada.com/?ref=breakoutlist",
+          "text": "Leada"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/leada-yc-s15-helps-professors-teach-the-most-in-demand-data-science-skills",
+          "text": "Leada Helps Professors Teach The Most In-Demand Data Science Skills"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Berkeley, CA",
+        "index": 40,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.livecoding.tv/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/livecoding.tv-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.livecoding.tv/about/?ref=breakoutlist",
+          "text": "Livecoding.tv"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/livecoding-dot-tv-yc-s15-is-twitch-for-coding",
+          "text": "Livecoding.tv Is Twitch For Coding"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Mountain View, CA",
+        "index": 41,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://locent.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/locent-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://locent.com/?ref=breakoutlist",
+          "text": "Locent"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/locent-yc-s15-is-an-e-commerce-platform-thats-powered-entirely-by-text-messages",
+          "text": "Locent Is An E-Commerce Platform That's Powered Entirely By Text Messages"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Santa Monica, CA",
+        "index": 42,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://lunasleep.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/luna-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://lunasleep.com/team?ref=breakoutlist",
+          "text": "Luna"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/luna-yc-s15-is-a-high-tech-mattress-cover-that-turns-any-bed-into-a-smart-bed",
+          "text": "Luna Is A High Tech Mattress Cover That Turns Any Bed Into A 'Smart Bed'"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 43,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://maderight.co/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/maderight-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://maderight.co/?ref=breakoutlist",
+          "text": "Maderight"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/maderight-yc-s15-makes-it-simple-to-source-ethical-factories-worldwide",
+          "text": "Maderight Makes It Simple To Source Ethical Factories Worldwide"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Mateo, CA",
+        "index": 44,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://themarkhor.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/markhor-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://themarkhor.com/pages/careers?ref=breakoutlist",
+          "text": "Markhor"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/markhor-yc-s15-makes-handcrafted-luxury-shoes-for-half-the-price-of-top-brands",
+          "text": "Markhor Makes Handcrafted Luxury Shoes For Half The Price Of Top Brands"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "2",
+        "location": "Lahore, Pakistan",
+        "index": 45,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://microhealth.org/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/microhealth-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://microhealth.org/?ref=breakoutlist",
+          "text": "MicroHealth"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/microhealth-yc-s15-helps-manage-treatment-for-patients-with-chronic-illnesses",
+          "text": "MicroHealth Helps Manage Treatment For Patients With Chronic Illnesses"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Spain",
+        "index": 46,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.mimirhq.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/mimir-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.mimirhq.com/about-team.php?ref=breakoutlist",
+          "text": "Mimir"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/mimir-yc-s15-wants-to-help-colleges-create-better-software-engineers",
+          "text": "Mimir Wants To Help Colleges Create Better Software Engineers"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "West Lafayette, IN",
+        "index": 47,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://nebia.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/nebia-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://nebia.com/jobs/?ref=breakoutlist",
+          "text": "Nebia"
+        },
+        "Description": {
+          "href": "http://techcrunch.com/2015/08/11/nebia/",
+          "text": "Y Combinator, Tim Cook Back Nebia, A Shower That Uses 70% Less Water"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "6",
+        "location": "San Francisco, CA",
+        "index": 48,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://newstorycharity.org/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/new-story-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://newstorycharity.org/jobs?ref=breakoutlist",
+          "text": "New Story"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/new-story-yc-s15-crowdfunds-houses-for-homeless-families",
+          "text": "Non profit :) New Story Crowdfunds Houses For Homeless Families"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 49,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.getohm.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/ohm-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.getohm.com/?ref=breakoutlist",
+          "text": "Ohm"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/ohm-yc-s15-is-making-a-lighter-longer-lasting-and-better-performing-car-battery",
+          "text": "Ohm Is Making A Lighter, Longer-Lasting, And Better-Performing Car Battery"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Jose, CA",
+        "index": 50,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.onboardiq.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/onboardiq-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://angel.co/onboardiq/jobs",
+          "text": "OnboardIQ"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/onboardiq-yc-s15-helps-companies-screen-and-hire-their-workforces",
+          "text": "OnboardIQ Helps Companies Screen And Hire Their Workforces"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "2",
+        "location": "San Francisco, CA",
+        "index": 51,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.oolusolar.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/oolu-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.oolusolar.com/?ref=breakoutlist",
+          "text": "Oolu"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/oolu-yc-s15-supplies-affordable-solar-energy-to-off-grid-villages-in-west-africa",
+          "text": "Oolu Supplies Affordable Solar Energy To Off-Grid Villages In West Africa"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Dakar, Senegal",
+        "index": 52,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://paribus.co/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/paribus-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://paribus.co/about?ref=breakoutlist",
+          "text": "Paribus"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/paribus-yc-s15-gets-you-money-back-when-stuff-youve-bought-goes-on-sale",
+          "text": "Paribus Gets You Money Back When Stuff You've Bought Goes On Sale"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Brooklyn, New York",
+        "index": 53,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.picktrace.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/picktrace-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.picktrace.com/about/#careers?ref=breakoutlist",
+          "text": "PickTrace"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/picktrace-yc-s15-helps-farms-pay-their-workers-accurately-and-fairly",
+          "text": "PickTrace Helps Farms Pay Their Workers Accurately And Fairly"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Mountain View, CA",
+        "index": 54,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://plateiq.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/plate-iq-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://plateiq.com/?ref=breakoutlist",
+          "text": "Plate IQ"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/plate-iq-yc-s15-helps-restaurants-bring-their-finances-into-the-digital-age",
+          "text": "Plate IQ Helps Restaurants Bring Their Finances Into The Digital Age"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 55,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.platejoy.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/platejoy-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.platejoy.com/jobs?ref=breakoutlist",
+          "text": "PlateJoy"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/platejoy-yc-s15-delivers-fresh-food-to-help-you-meet-your-weight-loss-and-health-goals",
+          "text": "PlateJoy Delivers Fresh Food To Help You Meet Your Weight Loss And Health Goals"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "7",
+        "location": "San Francisco, CA",
+        "index": 56,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://blog.ycombinator.com/prayas-analytics-yc-s15-powers-a-slash-b-testing-for-brick-and-mortar-stores?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/prayas-analytics-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://blog.ycombinator.com/prayas-analytics-yc-s15-powers-a-slash-b-testing-for-brick-and-mortar-stores?ref=breakoutlist",
+          "text": "Prayas Analytics"
+        },
+        "Description": {
+          "href": "http://www.prayasanalytics.com/",
+          "text": "Prayas Analytics Powers A/B Testing For Brick And Mortar Stores"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 57,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.rossintelligence.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/ross-intelligence-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.rossintelligence.com/?ref=breakoutlist",
+          "text": "ROSS Intelligence"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/powered-by-ibm-watson-ross-intelligence-yc-s15-is-like-siri-for-legal-knowledge",
+          "text": "Powered By IBM Watson, ROSS Intelligence Is Like Siri For Legal Knowledge"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Palo Alto, CA",
+        "index": 58,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.roomblocker.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/roomblocker-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.roomblocker.com/about?ref=breakoutlist",
+          "text": "Roomblocker"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/roomblocker-s15-makes-booking-hotels-for-groups-and-events-a-snap",
+          "text": "Roomblocker Makes Booking Hotels For Groups And Events A Snap"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 59,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://getsaida.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/saida-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://getsaida.com/?ref=breakoutlist",
+          "text": "Saida"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/saida-yc-s15-helps-people-in-emerging-markets-get-credit-through-their-mobile-phones",
+          "text": "Saida Helps People In Emerging Markets Get Credit Through Their Mobile Phones"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Kenya",
+        "index": 60,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.scentbird.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/scentbird-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.scentbird.com/contact?ref=breakoutlist",
+          "text": "Scentbird"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/scentbird-yc-s15-is-a-subscription-sampling-of-luxury-fragrances-for-women-and-men",
+          "text": "Scentbird Is A Subscription Sampling Of Luxury Fragrances For Women & Men"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "NYC",
+        "index": 61,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.scopear.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/scopear-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.scopear.com/contact-us/?ref=breakoutlist",
+          "text": "ScopeAR"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/scopear-yc-s15-helps-fix-industrial-machine-problems-remotely-using-augmented-reality",
+          "text": "ScopeAR Helps Fix Complex Mechanical Problems Remotely Using Augmented Reality"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 62,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://secondmeasure.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/second-measure-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://secondmeasure.com/#contact?ref=breakoutlist",
+          "text": "Second Measure"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/second-measure-yc-s15-lets-investors-know-how-private-and-public-companies-are-really-doing",
+          "text": "Second Measure Lets Investors Know How Private And Public Companies Are Really Doing"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Mateo, CA",
+        "index": 63,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://sericapay.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/serica-logo.svg",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://sericapay.com/?ref=breakoutlist",
+          "text": "Serica"
+        },
+        "Description": {
+          "href": "http://techcrunch.com/2015/08/18/hardware-demo-day/",
+          "text": "Financial backbone for the cannabis industry"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 64,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.sevacoffee.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/seva-coffee-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.sevacoffee.com/?ref=breakoutlist",
+          "text": "Seva Coffee"
+        },
+        "Description": {
+          "href": "http://techcrunch.com/2015/08/18/hardware-demo-day/",
+          "text": "A roasting machine with unroasted cofee beans"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 65,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://theshotput.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/shotput-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://theshotput.com/?ref=breakoutlist",
+          "text": "Shotput"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/shotput-yc-s15-is-like-aws-for-warehousing-and-fulfillment",
+          "text": "Shotput Is Like AWS For Warehousing And Fulfillment"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Palo Alto, CA",
+        "index": 66,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://shredvideo.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/shred-video-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://shredvideo.com/?ref=breakoutlist",
+          "text": "Shred Video"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/shred-video-yc-s15-instantly-turns-raw-gopro-video-into-a-professionally-edited-sports-clip",
+          "text": "Shred Video Instantly Turns Raw GoPro Video Into A Cinema-Quality Sports Movie"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 67,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://sourcedna.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/sourcedna-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://sourcedna.com/jobs.html?ref=breakoutlist",
+          "text": "SourceDNA"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/sourcedna-yc-s15-helps-developers-make-their-apps-faster-better-and-more-secure",
+          "text": "SourceDNA Helps Developers Make Their Apps Faster, Better, And More Secure"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "1",
+        "location": "Oakland, CA",
+        "index": 68,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.stylebee.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/stylebee-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.stylebee.com/contact?ref=breakoutlist",
+          "text": "StyleBee"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/stylebee-yc-s15-sends-beauty-and-grooming-services-to-you-anytime-anywhere",
+          "text": "StyleBee Sends Beauty And Grooming Services To You Anytime, Anywhere"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Los Angeles, CA",
+        "index": 69,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://sywork.tv/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/sywork-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://sywork.tv/about#contact?ref=breakoutlist",
+          "text": "Sywork"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/sywork-yc-s15-is-the-twitch-for-illustrators-and-artists",
+          "text": "Sywork Is The Twitch For Illustrators And Artists"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "California City, California",
+        "index": 70,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://business.tabmoney.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/tab-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://business.tabmoney.com/?ref=breakoutlist",
+          "text": "Tab"
+        },
+        "Description": {
+          "href": "http://techcrunch.com/2015/08/18/hardware-demo-day/",
+          "text": "Let merchants in developing nations accept credit card payments"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "CA",
+        "index": 71,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.teabot.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/teabot-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.teabot.com/contact-us/?ref=breakoutlist",
+          "text": "TeaBot"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/teabot-yc-s15-makes-customized-cups-of-tea-with-the-touch-of-a-button",
+          "text": "teaBOT Makes Customized Cups Of Tea With The Touch Of A Button"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Toronto, ON",
+        "index": 72,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://tenantturner.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/tenant-turner-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://tenantturner.com/jobs/?ref=breakoutlist",
+          "text": "Tenant Turner"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/tenant-turner-yc-s15-helps-property-owners-quickly-fill-vacancies-with-qualified-tenants",
+          "text": "Tenant Turner Helps Property Owners Quickly Fill Vacancies With Qualified Renters"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "3",
+        "location": "Richmond, Virginia",
+        "index": 73,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.tesorio.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/tesorio-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.tesorio.com/?ref=breakoutlist",
+          "text": "Tesorio"
+        },
+        "Description": {
+          "href": "http://techcrunch.com/2015/08/18/hardware-demo-day/",
+          "text": "Discounts for paying vendor invoices faster"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Philadelphia, PA",
+        "index": 74,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://tetrascience.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/tetrascience-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://tetrascience.com/#joinus?ref=breakoutlist",
+          "text": "TetraScience"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/tetrascience-yc-s15-sends-data-from-scientific-instruments-directly-to-the-web",
+          "text": "TetraScience Sends Data From Scientific Instruments Directly To The Web"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "4",
+        "location": "Cambridge, MA",
+        "index": 75,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.theticketfairy.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/the-ticket-fairy-logo.svg",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.theticketfairy.com/contact/?from=/about/?ref=breakoutlist",
+          "text": "The Ticket Fairy"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/the-ticket-fairy-yc-s15-helps-event-organizers-fill-more-seats",
+          "text": "The Ticket Fairy Helps Event Organizers Fill More Seats"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 76,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.transcendlighting.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/transcend-lighting-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.transcendlighting.com/about-us.html?ref=breakoutlist",
+          "text": "Transcend Lighting"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/transcend-yc-s15-makes-extra-efficient-led-lights-for-the-indoor-farms-of-the-future",
+          "text": "Transcend Makes Super Efficient LED Lights For The Indoor Farms Of The Future"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 77,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://traversalnetworks.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/traversal-networks-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://traversalnetworks.com/?ref=breakoutlist",
+          "text": "Traversal Networks"
+        },
+        "Description": {
+          "href": "http://techcrunch.com/2015/08/18/traversal-networks-wants-to-be-your-companys-cyber-security-department/",
+          "text": "Traversal Networks installs appliances to monitor networks for malicious activity."
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "CA",
+        "index": 78,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://triplebyte.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/triplebyte-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://triplebyte.com/about?ref=breakoutlist",
+          "text": "Triplebyte"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/work-at-a-yc-startup-v2",
+          "text": "Triplebyte is launching a common application to apply for a job at any YC startup."
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 79,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.voiq.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/voiq-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.voiq.com/?ref=breakoutlist",
+          "text": "VOIQ"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/voiq-yc-s15-provides-companies-with-call-center-services-on-demand",
+          "text": "VOIQ Provides Companies With Call Center Services On-Demand"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 80,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.vergegenomics.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/verge-genomics-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.vergegenomics.com/#contact-us?ref=breakoutlist",
+          "text": "Verge Genomics"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/verge-genomics-yc-s15-uses-algorithms-find-drugs-for-brain-diseases-1000x-faster",
+          "text": "Verge Genomics Uses Algorithms To Find Drugs For Brain Diseases 1000X Faster"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 81,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.vernoxlabs.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/vernox-labs-logo.jpg",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.vernoxlabs.com/#contact-us?ref=breakoutlist",
+          "text": "Vernox Labs"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/vernox-labs-yc-s15-uses-predictive-analysis-to-help-construction-projects-actually-finish-on-time",
+          "text": "Vernox Labs Uses Predictive Analysis To Help Construction Projects Actually Finish On Time"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Berkeley, CA",
+        "index": 82,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.vestfin.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/vest-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.vestfin.com/?ref=breakoutlist",
+          "text": "Vest"
+        },
+        "Description": {
+          "href": "http://techcrunch.com/2015/08/18/hardware-demo-day/",
+          "text": "Protected investments for everyone"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "McLean, VA",
+        "index": 83,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.wheelyscafe.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/wheelys-cafe-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.wheelyscafe.com/#contact?ref=breakoutlist",
+          "text": "Wheelys Cafe"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/wheelys-yc-s15-makes-tiny-beautifully-designed-bicycle-powered-cafes",
+          "text": "Wheely's Makes Beautifully Designed Bicycle-Powered Cafés"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Sweden",
+        "index": 84,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://willing.com/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/willing-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://willing.com/contact/?ref=breakoutlist",
+          "text": "Willing"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/willing-yc-s15-is-the-simplest-way-to-plan-for-the-inevitable",
+          "text": "Willing Is The Simplest Way To Plan For The Inevitable"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "NYC",
+        "index": 85,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "http://www.xendit.co/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/xendit-logo.jpg",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "http://www.xendit.co/?ref=breakoutlist",
+          "text": "Xendit"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/xendit-yc-s15-is-bringing-peer-to-peer-mobile-money-transfers-to-indonesia",
+          "text": "Xendit Is Bringing Peer-To-Peer Mobile Money Transfers To Indonesia"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 86,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://www.xfers.io/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/xfers-logo.png",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://www.xfers.io/?ref=breakoutlist",
+          "text": "Xfers"
+        },
+        "Description": {
+          "href": "http://blog.ycombinator.com/xfers-yc-s15-wants-to-be-the-go-to-payment-platform-for-south-asia",
+          "text": "Xfers Wants To Be The Go-To Payment Platform For South East Asia"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "Singapore",
+        "index": 87,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      },
+      {
+        "Logo": {
+          "href": "https://zeplin.io/?ref=breakoutlist",
+          "src": "http://www.newyclist.com/assets/logos/yc/zeplin-logo.svg",
+          "text": ""
+        },
+        "CompanyName": {
+          "href": "https://zeplin.io/?ref=breakoutlist",
+          "text": "Zeplin"
+        },
+        "Description": {
+          "href": "https://blog.ycombinator.com/zeplin-yc-s15-helps-designers-and-developers-speak-the-same-language",
+          "text": "Zeplin Helps Designers And Developers Speak The Same Language"
+        },
+        "class": "S15",
+        "size": "1-10",
+        "openings": "0",
+        "location": "San Francisco, CA",
+        "index": 88,
+        "url": "http://www.newyclist.com/?ref=producthunt"
+      }
+    ]
+  }
+}

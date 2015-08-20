@@ -28,9 +28,9 @@ module.exports.connections = {
     adapter: 'sails-mongo',
     host: 'localhost',
     port: 27017,
-    user: 'dev',
-    password: 'dev',
-    database: 'heroku_wmkpbxx8'
-  },
+    //user: 'dev',
+    //password: 'dev',
+    database: 'posts'
+  }
 
 };
