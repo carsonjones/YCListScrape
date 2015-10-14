@@ -18,7 +18,7 @@ module.exports = {
 		  console.log('Created entry with name ' + created.name);
 		});;
 
-		return res.send('hey, thanks for the data!');
+		return res.send('hey thanks for the data!');
 
 	}
 };
